@@ -2,12 +2,12 @@
 
 ## Overview
 
-This project implements an **Inventory Management System** using the **Branch and Bound algorithm** to optimize job scheduling under predefined constraints. The system aims to improve task allocation efficiency and accuracy in managing inventory flows. The Branch and Bound technique ensures that the scheduling problem is solved optimally, considering constraints such as job deadlines, processing times, and other resource limitations.
+This project implements an **Inventory Management System** using the **Branch and Bound algorithm** to optimize job scheduling under predefined constraints. The system aims to improve task allocation efficiency and accuracy in managing inventory flows. The Branch and Bound technique ensures that the scheduling problem is solved optimally, considering constraints such as job release time, processing times, and other resource limitations.
 
 ## Features
 
 - **Job Scheduling Optimization**: Efficiently schedules jobs to optimize inventory flow based on predefined constraints.
-- **Constraint Handling**: Takes into account constraints such as job deadlines, processing times, and resources available.
+- **Constraint Handling**: Takes into account constraints such as job release time, processing times, and resources available.
 - **Accuracy**: Provides accurate task allocation using a decision tree-based approach, considering all possible outcomes.
 - **Efficiency**: Reduces time complexity for large datasets and inventory tasks, ensuring scalability.
   
